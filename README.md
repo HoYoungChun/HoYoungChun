@@ -1,6 +1,8 @@
-## Education
-* 2019.03 ~ 서강대학교 컴퓨터공학과
-* 2015.03 ~ 2018.02 휘문고등학교
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ho723)](https://solved.ac/ho723)
+
+### Interests
+* Machine Learning
+
 
 
 <!--
