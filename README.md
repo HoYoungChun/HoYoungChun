@@ -1,4 +1,4 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Ho_young)](https://solved.ac/ho723)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ho723)](https://solved.ac/ho723)
 
 ### Interests
 * Machine Learning
