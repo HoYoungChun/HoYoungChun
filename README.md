@@ -1,4 +1,8 @@
-### Hi there 👋
+## Education
+* 2019.03 ~ 서강대학교 컴퓨터공학과
+
+* 2015.03 ~ 2018.02 휘문고등학교
+
 
 <!--
 **HoYoungChun/HoYoungChun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
