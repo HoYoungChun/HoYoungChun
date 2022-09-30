@@ -1,3 +1,9 @@
+## 🎓 Education
+
+Sogang Univ. <br>
+Computer Science & Engineering <br>
+(2019.03 ~ ing)
+
 ## 💻 Experience
 
 | Period                  | Description                                                                   |
